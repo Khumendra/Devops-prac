@@ -1,5 +1,5 @@
 1. What is yaml and extension of a file?
-2. what are --- and ...  in yaml?
+2. What are --- [start] and ... [end]  in yaml?
 3. key-value pairs?
 4. Types of values?
 5. string, integers, floats, boolean, arrays/list, dictionaries?

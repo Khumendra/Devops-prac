@@ -1,0 +1,3 @@
+To read the yaml file:
+    > python read_yaml.py my-file.yaml
+
